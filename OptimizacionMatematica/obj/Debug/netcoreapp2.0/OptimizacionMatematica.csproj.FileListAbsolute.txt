@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\bin\Debug\netcoreapp2.0\OptimizacionMatematica.deps.json
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\bin\Debug\netcoreapp2.0\OptimizacionMatematica.runtimeconfig.json
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\bin\Debug\netcoreapp2.0\OptimizacionMatematica.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\bin\Debug\netcoreapp2.0\OptimizacionMatematica.dll
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\bin\Debug\netcoreapp2.0\OptimizacionMatematica.pdb
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\obj\Debug\netcoreapp2.0\OptimizacionMatematica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\obj\Debug\netcoreapp2.0\OptimizacionMatematica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\obj\Debug\netcoreapp2.0\OptimizacionMatematica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\obj\Debug\netcoreapp2.0\OptimizacionMatematica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\obj\Debug\netcoreapp2.0\OptimizacionMatematica.dll
+C:\Users\Usuario\Desktop\Optimizacion\OptimizacionMatematica-master\OptimizacionMatematica-master\OptimizacionMatematica\obj\Debug\netcoreapp2.0\OptimizacionMatematica.pdb
